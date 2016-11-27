@@ -14,9 +14,11 @@ Step 1: Add yourself to the member list, that is, [members.yml](members.yml). Ex
   twitter: henry                        # your github handle (optional)
 ```
 
-Step 2: Do NOT forget to send a pull request. 
+> Note: Do NOT forget to send a pull request with your [members.yml](members.yml) changes (see above). 
 
-That's it. Thanks! Wait for the next site update to get listed on the members page. Welcome to Vienna.html.
+Step 2: There's no step 2 ;-)
+
+Thanks! That's it. Wait for the next site update to get listed on the members page. Welcome to Vienna.html.
 
 
 ## Frequently Asked Questions (F.A.Q.s) and Answers
